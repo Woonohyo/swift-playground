@@ -1,0 +1,26 @@
+{
+  "name": "swift-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woonohyo/swift-playground.git"
+  },
+  "keywords": [
+    "swift",
+    "playground"
+  ],
+  "author": "Wonhyo Yi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Woonohyo/swift-playground/issues"
+  },
+  "homepage": "https://github.com/Woonohyo/swift-playground#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
